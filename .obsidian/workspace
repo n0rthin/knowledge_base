@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "4dc82578808faa15",
+    "type": "split",
+    "children": [
+      {
+        "id": "829b001b9698f91a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Statistics/Hypothesis testing/t-test.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "615ca626dcb02b07",
+    "type": "split",
+    "children": [
+      {
+        "id": "037da4718da125b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80dcb75a001744e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3858daa05ee3bb4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mean",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0279fe7faf1c018d",
+    "type": "split",
+    "children": [
+      {
+        "id": "642112226ee16d19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ead867814802339",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Statistics/Hypothesis testing/t-test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "829b001b9698f91a",
+  "lastOpenFiles": [
+    "Statistics/Hypothesis testing/t-test.md",
+    "Statistics/Hypothesis testing/p-value.md",
+    "Statistics/Hypothesis testing/Type 1 and Type 2 errors.md",
+    "Statistics/Hypothesis testing/one-sided vs two-sided.md",
+    "Statistics/Hypothesis testing/Rejection region approach.md",
+    "Statistics/Hypothesis testing/z-test.md",
+    "Statistics/Hypothesis testing/Basics.md",
+    "Statistics/Basics/Average.md",
+    "Statistics/Distributions/Normality assumption.md",
+    "Statistics/Basics/Mean.md"
+  ]
+}

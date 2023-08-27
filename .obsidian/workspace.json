@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "4dc82578808faa15",
+    "type": "split",
+    "children": [
+      {
+        "id": "86f357fe615d1dd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "594fc0ebeec5ffe6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "615ca626dcb02b07",
+    "type": "split",
+    "children": [
+      {
+        "id": "037da4718da125b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80dcb75a001744e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3858daa05ee3bb4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "cosine",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "813393f4c80b8d82",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "31ba6ac90d5a3c24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250
+  },
+  "right": {
+    "id": "0279fe7faf1c018d",
+    "type": "split",
+    "children": [
+      {
+        "id": "642112226ee16d19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ead867814802339",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b0a6da8b7c8d906",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "bfe18309c0065166",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "594fc0ebeec5ffe6",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "AB Tests/sb/Confidence interval.md",
+    "AB Tests/sb/AB Testing infrastructure.md",
+    "NotionChat/Promotion.md",
+    "Programming/Think in concepts, not syntax.md",
+    "Startups/Programming for beginners/What is programming language.md",
+    "Startups/Programming for beginners/What is programming.md",
+    "Startups/Daily Dose Of Singularity/1st.md",
+    "Startups/Zappier for devops that can be used from slack.md",
+    "Startups/KeyCue.md",
+    "Startups/Untitled.md",
+    "Startups/GPT Developer.md",
+    "Startups/GPT code generation.md",
+    "Startups/EBook.md",
+    "Startups/AI.md",
+    "Startups/AsyncGPT.md",
+    "Statistics/Hypothesis testing/Rejection region approach.md",
+    "Statistics/Hypothesis testing/Statistical significance.md",
+    "Statistics/Hypothesis testing/Type 1 and Type 2 errors.md",
+    "Statistics/Hypothesis testing/Hypothesis testing basics.md",
+    "Statistics/Hypothesis testing/Minimal Effect of Interest (MEI).md",
+    "Statistics/Hypothesis testing/t-test.md",
+    "Data analysis/Cosine similarity.md",
+    "Data analysis/Adjusted cosine similarity.md",
+    "Data analysis/(item-based) Pearson similarity.md",
+    "Pasted image 20230217163059.png",
+    "Ideas.md",
+    "Pasted image 20230217155422.png",
+    "Programming",
+    "Startups/Programming for beginners",
+    "Startups/Daily Dose Of Singularity",
+    "Recommender systems/Item-based collaborative filtering.canvas",
+    "NotionChat"
+  ]
+}
